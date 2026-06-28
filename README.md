@@ -1,10 +1,10 @@
-# ⚽ FIFA 21 Player Market Analysis
+# FIFA 21 Player Market Analysis
 
 A complete end-to-end **Data Analytics Project** built using **Python, Pandas, NumPy, Matplotlib, Seaborn, and Power BI**. This project focuses on cleaning raw FIFA 21 player data, performing Exploratory Data Analysis (EDA), creating meaningful visualizations, and generating business insights to support football club recruitment and transfer decisions.
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 Football clubs invest millions of euros during every transfer window. Selecting the right player is one of the biggest challenges, as poor transfer decisions can result in financial losses and poor team performance.
 
@@ -12,7 +12,7 @@ This project analyzes the FIFA 21 player dataset to identify factors affecting p
 
 ---
 
-# 🎯 Business Problem
+#  Business Problem
 
 Football clubs require a systematic and data-driven approach to evaluate players before making transfer decisions. Traditional scouting methods may overlook valuable insights hidden within player statistics.
 
@@ -27,7 +27,7 @@ This project aims to answer important business questions such as:
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 * Clean the FIFA 21 raw dataset.
 * Handle missing values and inconsistent data.
@@ -40,7 +40,7 @@ This project aims to answer important business questions such as:
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 * Python
 * Jupyter Notebook
@@ -53,7 +53,7 @@ This project aims to answer important business questions such as:
 
 ---
 
-# 📂 Dataset Information
+#  Dataset Information
 
 **Dataset:** FIFA 21 Raw Dataset
 
@@ -79,7 +79,7 @@ The dataset contains approximately **18,979 football players** with over **70 pl
 
 ---
 
-# 🧹 Data Cleaning
+#  Data Cleaning
 
 The following preprocessing steps were performed:
 
@@ -106,7 +106,7 @@ New features created:
 
 ---
 
-# 📊 Exploratory Data Analysis (EDA)
+#  Exploratory Data Analysis (EDA)
 
 The project answers several business questions, including:
 
@@ -123,7 +123,7 @@ The project answers several business questions, including:
 
 ---
 
-# 📈 Data Visualizations
+# Data Visualizations
 
 The project includes several visualizations such as:
 
@@ -138,7 +138,7 @@ The project includes several visualizations such as:
 
 ---
 
-# 📊 Power BI Dashboard
+#  Power BI Dashboard
 
 An interactive Power BI dashboard was developed to present key insights.
 
@@ -154,7 +154,7 @@ An interactive Power BI dashboard was developed to present key insights.
 
 ---
 
-# 💡 Key Insights
+#  Key Insights
 
 * Overall Rating is the strongest factor influencing Market Value.
 * Young players with high Potential provide the best long-term investment.
@@ -165,7 +165,7 @@ An interactive Power BI dashboard was developed to present key insights.
 
 ---
 
-# 📌 Business Recommendations
+#  Business Recommendations
 
 * Invest in young high-potential players.
 * Monitor Wage-to-Value Ratio before signing players.
@@ -176,7 +176,7 @@ An interactive Power BI dashboard was developed to present key insights.
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```text
 FIFA21-Player-Market-Analysis/
@@ -192,7 +192,7 @@ FIFA21-Player-Market-Analysis/
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 * Machine Learning model for Player Market Value Prediction
 * Player Recommendation System
@@ -202,7 +202,7 @@ FIFA21-Player-Market-Analysis/
 
 ---
 
-# 👥 Project Team
+# Project Team
 
 This project was collaboratively developed as part of a **Data Analytics Internship** by:
 
@@ -212,7 +212,7 @@ This project was collaboratively developed as part of a **Data Analytics Interns
 
 ---
 
-# 📄 License
+#  License
 
 This project is intended for educational and learning purposes.
 
